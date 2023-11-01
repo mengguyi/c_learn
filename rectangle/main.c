@@ -6,7 +6,6 @@ double compute_square(double length, double width);
 
 int main()
 {
-
     printf("Please input the length:");
     scanf("%lf", &length);
     printf("Please input the width:");
